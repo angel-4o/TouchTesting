@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/OnMouseDownOrDrag.unity
+    path: Assets/_Scenes/OnMouseDownOrDrag.unity
     guid: b4674a0196f55094fb4f6211af135875
+  - enabled: 1
+    path: Assets/_Scenes/ScreenTouch.unity
+    guid: f29d31f2dc67c8c4f9f8e35144cd1b13
   m_configObjects: {}
